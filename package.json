@@ -4,7 +4,7 @@
   "description": "",
   "main": "ramtest.js",
   "scripts": {
-    "start": "node basic-system-info"
+    "start": "node basic-resource-usage"
   },
   "author": "",
   "license": "ISC",
