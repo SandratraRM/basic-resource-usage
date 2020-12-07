@@ -1,0 +1,15 @@
+{
+  "name": "systeminfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ramtest.js",
+  "scripts": {
+    "start": "node basic-system-info"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "^3.8.2",
+    "systeminformation": "^4.31.0"
+  }
+}
